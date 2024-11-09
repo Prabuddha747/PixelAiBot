@@ -1,6 +1,5 @@
 # 🌐 Pixel AI Web Interface
 
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/52d3d5e1-703c-4d44-a69d-e5517095df40">
 
 
 Welcome to the **Pixel AI Web Interface**! This is a dynamic, interactive web-based dashboard for Pixel AI, crafted with JavaScript, HTML, and CSS. Enjoy real-time updates on essential details like internet connectivity, battery level, local weather, and more—all while personalizing your experience!
@@ -33,7 +32,8 @@ Welcome to the **Pixel AI Web Interface**! This is a dynamic, interactive web-ba
 
 ## 📸 Screenshots
 
-*Coming Soon!*
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/52d3d5e1-703c-4d44-a69d-e5517095df40">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/e3109c3c-4507-4ec5-a16a-8f940092deb6">
 
 ## 🎉 Enjoy your Pixel AI experience!
 
@@ -41,4 +41,3 @@ With this Pixel AI interface, you’re all set to have a personalized and intera
 
 ---
 
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/e3109c3c-4507-4ec5-a16a-8f940092deb6">
