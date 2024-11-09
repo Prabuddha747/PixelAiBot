@@ -1,5 +1,5 @@
 # 🌐 Pixel AI Web Interface
-
+HOSTED WEBSITE ON VErCEL- https://pixel-ai-bot.vercel.app/
 
 
 Welcome to the **Pixel AI Web Interface**! This is a dynamic, interactive web-based dashboard for Pixel AI, crafted with JavaScript, HTML, and CSS. Enjoy real-time updates on essential details like internet connectivity, battery level, local weather, and more—all while personalizing your experience!
