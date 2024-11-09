@@ -32,6 +32,8 @@ Welcome to the **Pixel AI Web Interface**! This is a dynamic, interactive web-ba
 
 ## 📸 Screenshots
 
+<img width="1435" alt="image" src="https://github.com/user-attachments/assets/a89a044f-585a-4c5d-9fbc-8c8e06de070d">
+
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/52d3d5e1-703c-4d44-a69d-e5517095df40">
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/e3109c3c-4507-4ec5-a16a-8f940092deb6">
 
