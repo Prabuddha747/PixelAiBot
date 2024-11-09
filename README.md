@@ -25,5 +25,4 @@ HTML/CSS: For layout and styling.
 JavaScript: For dynamic behavior and data fetching.
 OpenWeather API: For weather updates (API key required).
 
-
-<img width="1436" alt="image" src="https://github.com/user-attachments/assets/3cc95aa8-acb2-468d-acd9-d9a2117485a2">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/e3109c3c-4507-4ec5-a16a-8f940092deb6">
